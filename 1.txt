@@ -1,1 +1,45 @@
-print("1122")
+General
+Complete name                            : F:\素材\栞子wav\money歌~1.wav
+Format                                   : Wave
+File size                                : 518 KiB
+Duration                                 : 12 s 33 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 353 kb/s
+Encoded by                               : Adobe Premiere Pro CC 2018.0 (Wi
+Recorded date                            : 2020-08-09
+Writing application                      : Lavf59.6.100
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 12 s 33 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 352.8 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 518 KiB (100%)
+
+
+General
+Complete name                            : F:\素材\栞子wav\shioriko_1.wav
+Format                                   : Wave
+File size                                : 353 KiB
+Duration                                 : 8 s 200 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 353 kb/s
+Writing application                      : Lavf59.6.100
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 8 s 200 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 352.8 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 353 KiB (100%)
+
